@@ -1,0 +1,42 @@
+.header_purple {
+  background: purple;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+}/*nem működik!*/
+
+.body {
+  display: flex;
+  height: 500px;
+  margin: 10px 100px;
+}
+.body_left {
+  background: lime;
+  flex-grow: 1;
+}
+.body_right {
+  background: yellow;
+  flex-grow: 4
+}
+.footer {
+  height: 80px;
+  background: lightgrey;
+  margin: 0px 100px 0px 100px;
+} 
+.header_box_small {
+  background: cyan;
+  width: 150px;
+  height: 30px;
+  margin: 10px;
+  position: relative;
+}
+.header_box_big{
+  background: cyan;
+  width: 250px;
+  height: 30px;
+  margin: 10px;
+  position: relative;
+}
