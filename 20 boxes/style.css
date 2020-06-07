@@ -18,7 +18,7 @@
     display: flex;
     width: 800px;
     height: 100px;
-    border: 2px solid rgb(250, 210, 135);
+    border: 2px solid lightskyblue;
     background: rgb(207, 79, 5);
     justify-content: space-evenly;
     align-items: center;
