@@ -1,0 +1,31 @@
+.container1 {
+    display: flex;
+    width: 800px;
+    height: 100px;
+    border: 2px solid lightskyblue;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .item1 {
+    list-style: none;    
+    width: 50px;
+    height: 50px;
+    background-color: lightskyblue;
+  }
+
+  .container2 {
+    display: flex;
+    width: 800px;
+    height: 100px;
+    border: 2px solid rgb(250, 210, 135);
+    background: rgb(207, 79, 5);
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .item2 {    
+    list-style: none;
+    width: 50px;
+    height: 50px;
+    background-color: purple
+  }
