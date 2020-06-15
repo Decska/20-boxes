@@ -2,7 +2,7 @@
 //$("div").text("Kati");
 $("div").css("background", "pink")
 
-//to remove things: toggle=change "first" with "hidden"
+//to remove things: toggle=switch "first" with "hidden"
 $(".first").toggleClass("hidden")
 $("p").html("<strong>Hurrá! Fog ez menni!</strong>")
 
